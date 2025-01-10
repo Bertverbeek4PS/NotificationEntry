@@ -1,0 +1,8 @@
+# AL Language extension files
+.vscode/
+.alpackages/
+.snapshots/
+*.app
+
+# AL Language cache files
+*.alcache
